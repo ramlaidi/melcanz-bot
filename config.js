@@ -7,12 +7,12 @@ global.APIs = {
   amel: 'https://melcanz.com',
 }
 global.APIKeys = {
-  'https://melcanz.com': 'Subscribe MelcanzYT'
+  'https://melcanz.com': 'irsantod'
 }
 
-global.packname = 'ig @ariffb.id @melcanz.io'
-global.author = '© ariffb & melcanz'
-global.wm = '© ariffb & melcanz'
+global.packname = 'punya'
+global.author = '© irsanMek'
+global.wm = '© IrsanGanteng Ygy:v'
 global.eror = '*Error*'
 global.wait = '*tunggu..*'
 global.benar = '✅'
